@@ -12,7 +12,7 @@ export default function Hero() {
         animate={{ y: 0, opacity: 1 }}
         transition={{ duration: 1 }}
       >
-        Hi, I am Your Name
+        Hi, I am Ramchandra Tharu
       </motion.h1>
 
       {/* Animated paragraph */}

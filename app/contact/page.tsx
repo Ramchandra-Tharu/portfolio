@@ -1,3 +1,4 @@
+import React from "react";
 export default function Contact() {
   return (
     <section className="min-h-screen p-10 bg-black text-white flex flex-col items-center text-center">
