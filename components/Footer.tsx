@@ -23,8 +23,8 @@ export default function Footer() {
         <div>
           <h3 className="text-xl font-semibold mb-3">Follow Me</h3>
           <div className="flex items-center space-x-4 text-gray-300">
-            <a href="#" className="hover:text-white">Instagram</a>
-            <a href="#" className="hover:text-white">Facebook</a>
+            <a href="https://github.com/Ramchandra-Tharu" className="hover:text-white">Instagram</a>
+            <a href="https://www.facebook.com/sirzanchaudhary143" className="hover:text-white">Facebook</a>
             <a href="#" className="hover:text-white">GitHub</a>
           </div>
         </div>
